@@ -6,5 +6,5 @@ export default {
 
 <template></template>
 
-<style>
+<style scoped>
 </style>

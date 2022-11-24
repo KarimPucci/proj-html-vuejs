@@ -8,10 +8,11 @@ export default {
 </script>
 
 <template>
-  <div class="container">
-    <img src="./" alt="" />
-  </div>
+  <div class="container"></div>
 </template>
 
 <style scoped>
+.container {
+  background-color: blueviolet;
+}
 </style>
