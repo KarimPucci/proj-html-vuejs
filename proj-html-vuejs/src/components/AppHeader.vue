@@ -7,7 +7,11 @@ export default {
 };
 </script>
 
-<template></template>
+<template>
+  <div class="container">
+    <img src="./" alt="" />
+  </div>
+</template>
 
-<style>
+<style scoped>
 </style>
