@@ -1,5 +1,10 @@
 <script>
-export default {};
+export default {
+  name: "AppHeader",
+  data() {
+    return {};
+  },
+};
 </script>
 
 <template></template>

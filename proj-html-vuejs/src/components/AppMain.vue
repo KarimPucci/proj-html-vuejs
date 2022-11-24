@@ -1,13 +1,10 @@
 <script>
-    export default {
-
-    }
+export default {
+  nome: "AppMain",
+};
 </script>
 
-<template>
-
-</template>
+<template></template>
 
 <style>
-
 </style>
