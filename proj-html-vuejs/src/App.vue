@@ -16,7 +16,12 @@ export default {
 </script>
 
 <template>
-  <AppHeader />
+  <div class="container">
+    <AppHeader />
+    <AppJumbotron />
+    <AppMain />
+    <AppFooter />
+  </div>
 </template>
 
 <style>
