@@ -8,7 +8,9 @@ export default {
 </script>
 
 <template>
-  <div class="container"></div>
+  <div class="container">
+    <img src="./teach/img/logo-img-01.png" alt="" />
+  </div>
 </template>
 
 <style scoped>
